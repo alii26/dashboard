@@ -233,7 +233,7 @@
     
     width: 10px;
     height: 10px;
-    background: url(../src/img/section/pink-circle.png) no-repeat;
+    background: url(../../src/img/section/pink-circle.png) no-repeat;
     margin-top: -12px;
     margin-left: -3px;
     
@@ -355,7 +355,7 @@
 .total:checked + .total-square:before {
     width: 16px;
     height: 16px;
-    background: url(../src/img/section/ok.png) no-repeat center;
+    background: url(../../src/img/section/ok.png) no-repeat center;
     margin: 0 auto;
 }
 
@@ -400,7 +400,7 @@
 .follower:checked + .follower-square::before {
     width: 16px;
     height: 16px;
-    background: url(../src/img/section/ok.png) no-repeat CENTER;
+    background: url(../../src/img/section/ok.png) no-repeat CENTER;
     margin:  0 auto;
 }
 
