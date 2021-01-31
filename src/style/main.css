@@ -376,7 +376,7 @@ body::after {
   height: 806.02px;
   left: 0px;
   top: 0px;
-  background: url(../src/img/background/Union.png) no-repeat;
+  background: url(../../src/img/background/Union.png) no-repeat;
   z-index: -1;
 }
 
@@ -388,7 +388,7 @@ body::before {
   left: 1251px;
   top: 932px;
   z-index: 5;
-  background: url(../../img/background/ellipse.png) no-repeat;
+  background: url(../../src/img/background/ellipse.png) no-repeat;
 }
 
 .wrap {
@@ -452,7 +452,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 26.14%;
-  background: url(/src/img/icons/home.png) no-repeat;
+  background: url(../../src/img/icons/home.png) no-repeat;
 }
 
 .nav .nav__button1:before {
@@ -478,7 +478,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 33.52%;
-  background: url(/src/img/icons/news.png) no-repeat;
+  background: url(../../src/img/icons/news.png) no-repeat;
 }
 
 .nav .nav__button2:before {
@@ -504,7 +504,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 40.91%;
-  background: url(/src/img/icons/friends.png) no-repeat;
+  background: url(../../src/img/icons/friends.png) no-repeat;
 }
 
 .nav .nav__button3:before {
@@ -530,7 +530,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 423px;
-  background: url(/src/img/icons/mail.png) no-repeat;
+  background: url(../../src/img/icons/mail.png) no-repeat;
 }
 
 .nav .nav__button4:before {
@@ -556,7 +556,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 480px;
-  background: url(/src/img/icons/play.png) no-repeat;
+  background: url(../../src/img/icons/play.png) no-repeat;
 }
 
 .nav .nav__button5:before {
@@ -582,7 +582,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 63.41%;
-  background: url(/src/img/icons/stat.png) no-repeat;
+  background: url(../../src/img/icons/stat.png) no-repeat;
 }
 
 .nav .nav__button6:before {
@@ -608,7 +608,7 @@ body::before {
   left: 36px;
   outline: none;
   top: 635px;
-  background: url(/src/img/icons/settings.png) no-repeat;
+  background: url(../../src/img/icons/settings.png) no-repeat;
 }
 
 .nav .nav__button7:before {
@@ -660,7 +660,7 @@ body::before {
   width: 20px;
   left: 5px;
   bottom: 5px;
-  background: url(/src/img/icons/moon.png) no-repeat center;
+  background: url(../../src/img/icons/moon.png) no-repeat center;
   background-color: #7F7FD5;
   -webkit-transition: .4s;
   transition: .4s;
@@ -774,7 +774,7 @@ body::before {
   border-radius: 8px 0 0 8px;
   margin-left: 45px;
   border: 1px solid #EBEBEB;
-  background: #FDFDFF url(/src/img/section/search.png) no-repeat center;
+  background: #FDFDFF url(../../src/img/section/search.png) no-repeat center;
   border-right: none;
 }
 
@@ -785,7 +785,7 @@ body::before {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
-  background: url(/src/img/section/notification.png) no-repeat;
+  background: url(../../src/img/section/notification.png) no-repeat;
   outline: none !important;
 }
 
@@ -964,7 +964,7 @@ body::before {
   height: 8px;
   margin-left: 153px;
   margin-top: 3px;
-  background: url(../src/img/section/dropdown.png) no-repeat center;
+  background: url(../../src/img/section/dropdown.png) no-repeat center;
 }
 
 .group {
@@ -986,7 +986,7 @@ body::before {
   width: 100%;
   height: 118px;
   left: 67px;
-  background: url(../src/img/section/svg.png) no-repeat center;
+  background: url(../../src/img/section/svg.png) no-repeat center;
 }
 
 .line {
@@ -1066,7 +1066,7 @@ body::before {
 .line-circle1 {
   width: 10px;
   height: 10px;
-  background: url(../src/img/section/pink-circle.png) no-repeat;
+  background: url(../../src/img/section/pink-circle.png) no-repeat;
   margin-top: 12px;
   margin-left: -3px;
 }
@@ -1172,7 +1172,7 @@ body::before {
 .line-circle {
   width: 10px;
   height: 10px;
-  background: url(../src/img/section/pink-circle.png) no-repeat;
+  background: url(../../src/img/section/pink-circle.png) no-repeat;
   margin-top: -12px;
   margin-left: -3px;
 }
@@ -1405,7 +1405,7 @@ body::before {
 .total:checked + .total-square:before {
   width: 16px;
   height: 16px;
-  background: url(../src/img/section/ok.png) no-repeat center;
+  background: url(../../src/img/section/ok.png) no-repeat center;
   margin: 0 auto;
 }
 
@@ -1447,7 +1447,7 @@ body::before {
 .follower:checked + .follower-square::before {
   width: 16px;
   height: 16px;
-  background: url(../src/img/section/ok.png) no-repeat CENTER;
+  background: url(../../src/img/section/ok.png) no-repeat CENTER;
   margin: 0 auto;
 }
 
@@ -2079,7 +2079,7 @@ body::before {
   height: 20px;
   margin-left: 120px;
   margin-top: 38px;
-  background: url(/src/img/section/circles.png) no-repeat;
+  background: url(../../src/img/section/circles.png) no-repeat;
   outline: none !important;
 }
 
@@ -2121,7 +2121,7 @@ body::before {
   margin-top: 5px;
   width: 15px;
   height: 15px;
-  background: url(/src/img/section/arrow.png) no-repeat;
+  background: url(../../src/img/section/arrow.png) no-repeat;
 }
 
 .card__span-up {
@@ -2144,5 +2144,5 @@ body::before {
   margin-top: 5px;
   width: 15px;
   height: 15px;
-  background: url(/src/img/section/arrow-down.png) no-repeat;
+  background: url(../../src/img/section/arrow-down.png) no-repeat;
 }
