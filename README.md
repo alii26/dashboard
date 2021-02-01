@@ -1,2 +1,2 @@
-# vk-ali
-https://alii26.github.io/vk-ali/.
+# dashboard
+https://alii26.github.io/dashboard/
